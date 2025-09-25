@@ -49,3 +49,6 @@ El cuestionario incluye preguntas sobre:
 ---
 
 *Este repositorio se irá actualizando con nuevos trabajos y proyectos a lo largo del ciclo lectivo.*
+
+## 🌐 Ver Proyecto Online
+El proyecto está desplegado en GitHub Pages: [Ver Podcast Redes](https://laubisaccia.github.io/IFTS-redes-grupo-1/)
