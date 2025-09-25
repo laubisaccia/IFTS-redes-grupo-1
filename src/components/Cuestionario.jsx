@@ -35,7 +35,7 @@ export default function Cuestionario() {
             </div>
 
             {openIndex === idx && (
-              <div className="mt-6 text-sm text-white/90 bg-white/5 p-4 rounded-lg border-l-4 border-indigo-400 leading-relaxed">
+              <div className="mt-6 text-sm text-white/90 bg-white/5 p-4 rounded-lg border-l-4 border-indigo-400 leading-relaxed whitespace-pre-line">
                 {item.a}
               </div>
             )}
